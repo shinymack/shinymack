@@ -48,9 +48,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinymack&show_icons=true&theme=radical&hide_border=true" width="400" alt="Akash's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shinymack&show_icons=true&theme=radical&hide_border=true" width="400" alt="Akash's GitHub Stats" /> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=shinymack&theme=radical&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinymack&layout=compact&theme=radical&hide_border=true" width="300" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinymack&layout=compact&theme=radical&hide_border=true" width="300" alt="Top Languages" /> -->
 </p>
 
 
